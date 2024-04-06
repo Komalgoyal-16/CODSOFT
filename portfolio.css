@@ -1,0 +1,16 @@
+body{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgb(162, 122, 201);
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+}
+footer a{
+    text-decoration: none;
+}
+
+.land{
+    display:flex;
+}
